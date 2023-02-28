@@ -6,5 +6,5 @@
 ## Table of Contents
 ***
 ### Code 301: Intermediate Software Development
-* [Day 1](./Code-301/1.md)
+* [Day 1](./code-301/1.md)
 * Day 2
