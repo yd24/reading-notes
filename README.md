@@ -8,3 +8,4 @@
 ### Code 301: Intermediate Software Development
 * [Day 1](./code-301/1.md)
 * [Day 2](./code-301/2.md)
+* [Day 3](./code-301/3.md)
