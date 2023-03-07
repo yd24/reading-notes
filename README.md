@@ -12,3 +12,4 @@
 * [Day 4](./code-301/4.md)
 * [Day 5](./code-301/5.md)
 * [Day 6](./code-301/6.md)
+* [Day 7](./code-301/7.md)
