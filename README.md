@@ -18,3 +18,16 @@
 * [Day 10](./code-301/10.md)
 * [Day 11](./code-301/11.md)
 * [Day 12](./code-301/12.md)
+* [Day 13](./code-301/13.md)
+
+Name of feature: Add Book modal\
+Estimate of time needed to complete: 1 hour\
+Start time:  1:00pm\
+Finish time: 2:00pm\
+Actual time needed to complete: 1 hour
+
+Name of feature: Delete Button for deleting books\
+Estimate of time needed to complete: 30 min\
+Start time:  2:00pm\
+Finish time: 3:00pm\
+Actual time needed to complete: 1 hour
