@@ -1,10 +1,13 @@
 # Reading Notes for Code Fellows Courses
 ## Description 
 ***
-*This website will contain notes and observations made for readings from Code Fellow's Code 301 course.*
+*This website will contain notes and observations made for readings from Code Fellow's software development courses.*
 
 ## Table of Contents
 ***
+### Code 401: Advanced Software Development in Full-Stack Javascript
+* Day 1 (tbd)
+
 ### Code 301: Intermediate Software Development
 * [Day 1](./code-301/1.md)
 * [Day 2](./code-301/2.md)
