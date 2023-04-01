@@ -6,6 +6,7 @@
 ## Table of Contents
 ***
 ### Code 401: Advanced Software Development in Full-Stack Javascript
+* [Prework: SQL](./code-401/Prework-SQL.md)
 * Day 1 (tbd)
 
 ### Code 301: Intermediate Software Development
