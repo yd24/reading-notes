@@ -9,6 +9,7 @@
 * [Prework: SQL](./code-401/Prework-SQL.md)
 * [Prework: Terminal](./code-401/Prework-Terminal.md)
 * [Prep: Engineering Readings](./code-401/Engineering-Readings.md)
+* [Prep: Growth Mindset](./code-401/Growth-Mindset.md)
 * Day 1 (tbd)
 
 ### Code 301: Intermediate Software Development
