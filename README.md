@@ -11,6 +11,7 @@
 * [Prep: Engineering Readings](./code-401/Engineering-Readings.md)
 * [Prep: Growth Mindset](./code-401/Growth-Mindset.md)
 * [Day 1](./code-401/1.md)
+* [Day 2](./code-401/2.md)
 
 ### Code 301: Intermediate Software Development
 * [Day 1](./code-301/1.md)
