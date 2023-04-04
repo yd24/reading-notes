@@ -10,6 +10,7 @@
 * [Prework: Terminal](./code-401/Prework-Terminal.md)
 * [Prep: Engineering Readings](./code-401/Engineering-Readings.md)
 * [Prep: Growth Mindset](./code-401/Growth-Mindset.md)
+* [Data Structures and Algorithms](./code-401/Data-Structures-and-Algorithms.md)
 * [Day 1](./code-401/1.md)
 * [Day 2](./code-401/2.md)
 
