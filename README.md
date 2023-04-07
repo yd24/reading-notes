@@ -14,6 +14,7 @@
 * [Day 1](./code-401/1.md)
 * [Day 2](./code-401/2.md)
 * [Day 3](./code-401/3.md)
+* [Day 4](./code-401/4.md)
 
 ### Code 301: Intermediate Software Development
 * [Day 1](./code-301/1.md)
